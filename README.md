@@ -6,3 +6,9 @@ It is inspired by the classic games like Death Rally and Carmageddon and by the 
 The project was undertaken as a compulsory student project at Faculty of Mathematics and Physics at Charles university in Prague from 2011 to 2013.
 
 The implementation use existing 3D engine Fibix - www.fibix.eu
+
+
+Important files description:
+
+TechnicalDocu.pdf 	- Motordead's technical documentation
+VideoLinks.txt 		- links to youtube videos containing motordead footage
