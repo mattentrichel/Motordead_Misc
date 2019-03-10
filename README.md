@@ -10,5 +10,6 @@ The implementation use existing 3D engine Fibix - www.fibix.eu
 
 Important files description:
 
+motordead-v1.5ea1417d7b63.exe 	- windows installer of the latest Motordead's version. Note: first few runs are laggy due to the Shader cache being computed during gameplay
 TechnicalDocu.pdf 	- Motordead's technical documentation
 VideoLinks.txt 		- links to youtube videos containing motordead footage
