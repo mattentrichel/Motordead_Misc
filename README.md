@@ -7,6 +7,8 @@ The project was undertaken as a compulsory student project at Faculty of Mathema
 
 The implementation use existing 3D engine Fibix - www.fibix.eu
 
+Gameplay - https://www.youtube.com/watch?v=S_ogiSkOO6Q
+
 
 Important files description:
 
